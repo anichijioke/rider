@@ -5,21 +5,25 @@
     <!-- <Register/> -->
     <!-- <NavBar/> -->
     <router-view/>
+    <Footer/>
   </div>
 </template>
 
 <script>
 import NavBar from './components/NavBar'
-
+// import firebase from 'firebase'
+import Footer from './components/Footer'
 export default {
   name: 'App',
   components: {
-    NavBar
+    NavBar,
+    Footer
   }
 }
 </script>
 
 <style>
+
 *{
   box-sizing: border-box;
 }

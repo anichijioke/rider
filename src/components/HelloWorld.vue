@@ -16,7 +16,7 @@
           <div id="work-flow">
               <h2 class="how-it-works">How it works</h2>
               <div class="hover-line"></div>
-              <p class="title">Hire freelancers for hourly or fixed-bid jobs, Manage your projects and Payout safely.</p>
+              <p class="title">Hire rider for fixed-bid jobs, Manage your business and Payout safely.</p>
                 <!--............... Our services......... -->
             <div class="container-3">
                 <div class="services">
@@ -24,7 +24,7 @@
                         <img src="../assets/search-account.png" alt="" height="35%" width="35%">
                     </div>
                     <h2 class="text-services">Find</h2>
-                    <p class="body-text">Post a job and find quality logistic riders. You will find a range of top-level experts, from designers to developers, writers, and more.</p>                     <a href="#">learn more</a>
+                    <p class="body-text">Post a job and find quality logistic riders. You will find a range of top-level experts who are competent and worthy.</p>                     <a href="#">learn more</a>
                 </div>
                 <div class="services">
                     <div class="icon-1">
@@ -76,7 +76,7 @@ export default {
 .find{
   color:#fff;
   font-family: 'Frank Ruhl Libre', serif;
-  font-size: 5rem;
+  font-size: 4rem;
   text-align: center;
   font-weight: bolder;
 }
